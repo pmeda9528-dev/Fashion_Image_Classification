@@ -1,0 +1,17 @@
+# Core ML/DL
+tensorflow
+numpy
+pandas
+
+# Data fetching / utilities
+requests
+tqdm
+
+# Visualization
+matplotlib
+
+# Notebook support
+ipykernel
+
+# Frontend
+streamlit
